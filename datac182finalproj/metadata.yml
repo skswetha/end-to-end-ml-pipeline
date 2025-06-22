@@ -1,0 +1,18 @@
+---
+:id: 298417644
+:submitters:
+- :name: Amber Jiang
+  :email: amberj@berkeley.edu
+- :name: Jiangyu Guo
+  :email: samuelguo@berkeley.edu
+- :name: Alina Asif Shaikh
+  :email: alina_s@berkeley.edu
+- :name: Swetha Karthikeyan
+  :email: skswetha@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-12-20 06:00:30.352770000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-12-19 22:00:30.352770000 Z
+:status: processed
+:score: 110.0
